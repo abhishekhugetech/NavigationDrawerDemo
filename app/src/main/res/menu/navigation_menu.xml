@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="Dashboard"
+            android:id="@+id/dash"
+            android:icon="@drawable/presentation"
+            />
+
+        <item
+            android:title="Cart"
+            android:id="@+id/cart"
+            android:icon="@drawable/cart"
+            />
+
+        <item
+            android:title="Wallet"
+            android:id="@+id/wallet"
+            android:icon="@drawable/wallet"
+            />
+        <item
+            android:title="Tomato"
+            android:id="@+id/tomato"
+            android:icon="@drawable/tomato"
+            />
+
+
+    </group>
+    <item
+    android:title="Other Things"
+        android:id="@+id/other_things">
+
+        <menu>
+            <item
+                android:title="Orange"
+                android:id="@+id/orange"
+                android:icon="@drawable/orange"
+                />
+            <item
+                android:title="Calculator"
+                android:icon="@drawable/pointofservice"
+                android:id="@+id/calc"
+                />
+            <item
+                android:title="Fish"
+                android:id="@+id/fish"
+                android:icon="@drawable/fish"
+                />
+        </menu>
+</item>
+</menu>

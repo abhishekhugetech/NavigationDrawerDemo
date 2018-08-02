@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navigation Drawer Demo</string>
+    <string name="new_menu">New Menu</string>
+    <string name="abhishek_singh">Abhishek Singh</string>
+    <string name="abhishek_gmail_com">abhishek@gmail.com</string>
+    <string name="user_image">User Image</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
